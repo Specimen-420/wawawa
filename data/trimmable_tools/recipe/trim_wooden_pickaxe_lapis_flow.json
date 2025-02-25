@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"wooden_pickaxe","template":"flow_armor_trim_smithing_template","result":{"id":"wooden_pickaxe","components":{"minecraft:trim":{"material":"lapis","pattern":"flow"},"minecraft:item_model":"trimmable_tools:wooden_pickaxe_flow"}}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"amethyst_shard","base":"netherite_shovel","template":"spire_armor_trim_smithing_template","result":{"id":"netherite_shovel","components":{"minecraft:trim":{"material":"amethyst","pattern":"spire"},"minecraft:item_model":"trimmable_tools:netherite_shovel_spire"}}}

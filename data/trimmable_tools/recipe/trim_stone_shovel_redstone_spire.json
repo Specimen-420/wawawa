@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"stone_shovel","template":"spire_armor_trim_smithing_template","result":{"id":"stone_shovel","components":{"minecraft:trim":{"material":"redstone","pattern":"spire"},"minecraft:item_model":"trimmable_tools:stone_shovel_spire"}}}

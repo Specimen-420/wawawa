@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"iron_hoe","template":"flow_armor_trim_smithing_template","result":{"id":"iron_hoe","components":{"minecraft:trim":{"material":"emerald","pattern":"flow"},"minecraft:item_model":"trimmable_tools:iron_hoe_flow"}}}

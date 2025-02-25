@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"diamond_shovel","template":"eye_armor_trim_smithing_template","result":{"id":"diamond_shovel","components":{"minecraft:trim":{"material":"lapis","pattern":"eye"},"minecraft:item_model":"trimmable_tools:diamond_shovel_eye"}}}

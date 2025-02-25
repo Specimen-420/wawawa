@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"quartz","base":"iron_sword","template":"snout_armor_trim_smithing_template","result":{"id":"iron_sword","components":{"minecraft:trim":{"material":"quartz","pattern":"snout"},"minecraft:item_model":"trimmable_tools:iron_sword_snout"}}}

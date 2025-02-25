@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"iron_pickaxe","template":"wayfinder_armor_trim_smithing_template","result":{"id":"iron_pickaxe","components":{"minecraft:trim":{"material":"redstone","pattern":"wayfinder"},"minecraft:item_model":"trimmable_tools:iron_pickaxe_wayfinder"}}}

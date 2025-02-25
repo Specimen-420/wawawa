@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"iron_shovel","template":"sentry_armor_trim_smithing_template","result":{"id":"iron_shovel","components":{"minecraft:trim":{"material":"resin","pattern":"sentry"},"minecraft:item_model":"trimmable_tools:iron_shovel_sentry"}}}

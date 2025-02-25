@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"diamond_hoe","template":"eye_armor_trim_smithing_template","result":{"id":"diamond_hoe","components":{"minecraft:trim":{"material":"emerald","pattern":"eye"},"minecraft:item_model":"trimmable_tools:diamond_hoe_eye"}}}

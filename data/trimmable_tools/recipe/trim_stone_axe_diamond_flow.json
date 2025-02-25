@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"stone_axe","template":"flow_armor_trim_smithing_template","result":{"id":"stone_axe","components":{"minecraft:trim":{"material":"diamond","pattern":"flow"},"minecraft:item_model":"trimmable_tools:stone_axe_flow"}}}

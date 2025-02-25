@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"stone_axe","template":"rib_armor_trim_smithing_template","result":{"id":"stone_axe","components":{"minecraft:trim":{"material":"redstone","pattern":"rib"},"minecraft:item_model":"trimmable_tools:stone_axe_rib"}}}

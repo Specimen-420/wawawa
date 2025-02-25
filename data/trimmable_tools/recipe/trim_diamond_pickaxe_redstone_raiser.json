@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"diamond_pickaxe","template":"raiser_armor_trim_smithing_template","result":{"id":"diamond_pickaxe","components":{"minecraft:trim":{"material":"redstone","pattern":"raiser"},"minecraft:item_model":"trimmable_tools:diamond_pickaxe_raiser"}}}

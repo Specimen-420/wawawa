@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"iron_ingot","base":"wooden_sword","template":"rib_armor_trim_smithing_template","result":{"id":"wooden_sword","components":{"minecraft:trim":{"material":"iron","pattern":"rib"},"minecraft:item_model":"trimmable_tools:wooden_sword_rib"}}}

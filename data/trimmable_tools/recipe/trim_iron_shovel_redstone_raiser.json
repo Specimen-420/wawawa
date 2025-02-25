@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"iron_shovel","template":"raiser_armor_trim_smithing_template","result":{"id":"iron_shovel","components":{"minecraft:trim":{"material":"redstone","pattern":"raiser"},"minecraft:item_model":"trimmable_tools:iron_shovel_raiser"}}}

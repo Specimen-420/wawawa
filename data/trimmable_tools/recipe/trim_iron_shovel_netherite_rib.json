@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"netherite_ingot","base":"iron_shovel","template":"rib_armor_trim_smithing_template","result":{"id":"iron_shovel","components":{"minecraft:trim":{"material":"netherite","pattern":"rib"},"minecraft:item_model":"trimmable_tools:iron_shovel_rib"}}}

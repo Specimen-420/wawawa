@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"iron_pickaxe","template":"flow_armor_trim_smithing_template","result":{"id":"iron_pickaxe","components":{"minecraft:trim":{"material":"resin","pattern":"flow"},"minecraft:item_model":"trimmable_tools:iron_pickaxe_flow"}}}

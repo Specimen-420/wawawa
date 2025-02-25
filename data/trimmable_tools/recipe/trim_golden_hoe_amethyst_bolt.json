@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"amethyst_shard","base":"golden_hoe","template":"bolt_armor_trim_smithing_template","result":{"id":"golden_hoe","components":{"minecraft:trim":{"material":"amethyst","pattern":"bolt"},"minecraft:item_model":"trimmable_tools:golden_hoe_bolt"}}}

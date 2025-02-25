@@ -1,0 +1,162 @@
+{
+    "music_disc.grasslandthemeostversionsupermariobroswonder": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/grasslandthemeostversionsupermariobroswonder",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.badapple": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/badapple",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.birdsofafeatherbillieeilish": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/birdsofafeatherbillieeilish",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.chihirobillieeilish": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/chihirobillieeilish",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.faiththeweeknd": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/faiththeweeknd",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.gangbabynlechoppa": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/gangbabynlechoppa",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.givenuponmetheweeknd": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/givenuponmetheweeknd",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.heartlesstheweeknd": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/heartlesstheweeknd",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.lunchbillieeilish": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/lunchbillieeilish",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.lamourdemaviebillieeilish": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/lamourdemaviebillieeilish",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.lamourdemavieovernowextendededitbillieeilish": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/lamourdemavieovernowextendededitbillieeilish",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.notlikeuskendricklamar": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/notlikeuskendricklamar",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.ornahfeattheweekndwizkhalifadjmustardremixtydollaigntheweekndwizkhalifa": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/ornahfeattheweekndwizkhalifadjmustardremixtydollaigntheweekndwizkhalifa",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.privatelandingfeatjustinbieberfuturedontoliverjustinbieberfuture": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/privatelandingfeatjustinbieberfuturedontoliverjustinbieberfuture",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.redsunintheskymaozedong": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/redsunintheskymaozedong",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.theabyssfeatlanadelreytheweekndlanadelrey": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/theabyssfeatlanadelreytheweekndlanadelrey",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.theweekndsdarksecretamericandadcast": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/theweekndsdarksecretamericandadcast",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.timelessfeatplayboicartitheweekndplayboicarti": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/timelessfeatplayboicartitheweekndplayboicarti",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.euphoriakendricklamar": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/euphoriakendricklamar",
+                "stream": true
+            }
+        ]
+    },
+    "music_disc.cryformetheweeknd": {
+        "sounds": [
+            {
+                "name": "infinite_music_discs:records/cryformetheweeknd",
+                "stream": true
+            }
+        ]
+    }
+}

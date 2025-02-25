@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"copper_ingot","base":"iron_hoe","template":"dune_armor_trim_smithing_template","result":{"id":"iron_hoe","components":{"minecraft:trim":{"material":"copper","pattern":"dune"},"minecraft:item_model":"trimmable_tools:iron_hoe_dune"}}}

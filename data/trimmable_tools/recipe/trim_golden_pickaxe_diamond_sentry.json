@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"golden_pickaxe","template":"sentry_armor_trim_smithing_template","result":{"id":"golden_pickaxe","components":{"minecraft:trim":{"material":"diamond","pattern":"sentry"},"minecraft:item_model":"trimmable_tools:golden_pickaxe_sentry"}}}

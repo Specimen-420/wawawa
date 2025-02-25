@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"netherite_shovel","template":"host_armor_trim_smithing_template","result":{"id":"netherite_shovel","components":{"minecraft:trim":{"material":"emerald","pattern":"host"},"minecraft:item_model":"trimmable_tools:netherite_shovel_host"}}}

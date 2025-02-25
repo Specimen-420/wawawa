@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"netherite_pickaxe","template":"eye_armor_trim_smithing_template","result":{"id":"netherite_pickaxe","components":{"minecraft:trim":{"material":"emerald","pattern":"eye"},"minecraft:item_model":"trimmable_tools:netherite_pickaxe_eye"}}}

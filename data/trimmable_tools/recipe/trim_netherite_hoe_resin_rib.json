@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"netherite_hoe","template":"rib_armor_trim_smithing_template","result":{"id":"netherite_hoe","components":{"minecraft:trim":{"material":"resin","pattern":"rib"},"minecraft:item_model":"trimmable_tools:netherite_hoe_rib"}}}

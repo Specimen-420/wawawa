@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"iron_ingot","base":"netherite_hoe","template":"bolt_armor_trim_smithing_template","result":{"id":"netherite_hoe","components":{"minecraft:trim":{"material":"iron","pattern":"bolt"},"minecraft:item_model":"trimmable_tools:netherite_hoe_bolt"}}}

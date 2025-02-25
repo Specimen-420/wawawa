@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"stone_axe","template":"eye_armor_trim_smithing_template","result":{"id":"stone_axe","components":{"minecraft:trim":{"material":"emerald","pattern":"eye"},"minecraft:item_model":"trimmable_tools:stone_axe_eye"}}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"diamond_axe","template":"dune_armor_trim_smithing_template","result":{"id":"diamond_axe","components":{"minecraft:trim":{"material":"diamond","pattern":"dune"},"minecraft:item_model":"trimmable_tools:diamond_axe_dune"}}}

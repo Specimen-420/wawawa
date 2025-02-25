@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"diamond_hoe","template":"vex_armor_trim_smithing_template","result":{"id":"diamond_hoe","components":{"minecraft:trim":{"material":"diamond","pattern":"vex"},"minecraft:item_model":"trimmable_tools:diamond_hoe_vex"}}}

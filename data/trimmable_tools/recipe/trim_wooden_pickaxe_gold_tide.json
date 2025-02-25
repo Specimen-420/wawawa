@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"gold_ingot","base":"wooden_pickaxe","template":"tide_armor_trim_smithing_template","result":{"id":"wooden_pickaxe","components":{"minecraft:trim":{"material":"gold","pattern":"tide"},"minecraft:item_model":"trimmable_tools:wooden_pickaxe_tide"}}}

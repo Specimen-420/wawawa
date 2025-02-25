@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"wooden_shovel","template":"host_armor_trim_smithing_template","result":{"id":"wooden_shovel","components":{"minecraft:trim":{"material":"lapis","pattern":"host"},"minecraft:item_model":"trimmable_tools:wooden_shovel_host"}}}

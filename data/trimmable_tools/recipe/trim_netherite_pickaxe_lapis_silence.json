@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"netherite_pickaxe","template":"silence_armor_trim_smithing_template","result":{"id":"netherite_pickaxe","components":{"minecraft:trim":{"material":"lapis","pattern":"silence"},"minecraft:item_model":"trimmable_tools:netherite_pickaxe_silence"}}}

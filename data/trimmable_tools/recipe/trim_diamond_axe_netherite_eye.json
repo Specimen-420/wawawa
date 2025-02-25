@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"netherite_ingot","base":"diamond_axe","template":"eye_armor_trim_smithing_template","result":{"id":"diamond_axe","components":{"minecraft:trim":{"material":"netherite","pattern":"eye"},"minecraft:item_model":"trimmable_tools:diamond_axe_eye"}}}

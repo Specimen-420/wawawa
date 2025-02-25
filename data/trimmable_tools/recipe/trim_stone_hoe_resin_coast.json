@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"stone_hoe","template":"coast_armor_trim_smithing_template","result":{"id":"stone_hoe","components":{"minecraft:trim":{"material":"resin","pattern":"coast"},"minecraft:item_model":"trimmable_tools:stone_hoe_coast"}}}

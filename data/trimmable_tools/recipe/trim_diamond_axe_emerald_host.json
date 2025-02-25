@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"diamond_axe","template":"host_armor_trim_smithing_template","result":{"id":"diamond_axe","components":{"minecraft:trim":{"material":"emerald","pattern":"host"},"minecraft:item_model":"trimmable_tools:diamond_axe_host"}}}

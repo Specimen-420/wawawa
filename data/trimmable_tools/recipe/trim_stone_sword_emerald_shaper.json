@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"stone_sword","template":"shaper_armor_trim_smithing_template","result":{"id":"stone_sword","components":{"minecraft:trim":{"material":"emerald","pattern":"shaper"},"minecraft:item_model":"trimmable_tools:stone_sword_shaper"}}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"stone_hoe","template":"flow_armor_trim_smithing_template","result":{"id":"stone_hoe","components":{"minecraft:trim":{"material":"redstone","pattern":"flow"},"minecraft:item_model":"trimmable_tools:stone_hoe_flow"}}}

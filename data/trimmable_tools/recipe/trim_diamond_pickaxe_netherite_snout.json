@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"netherite_ingot","base":"diamond_pickaxe","template":"snout_armor_trim_smithing_template","result":{"id":"diamond_pickaxe","components":{"minecraft:trim":{"material":"netherite","pattern":"snout"},"minecraft:item_model":"trimmable_tools:diamond_pickaxe_snout"}}}

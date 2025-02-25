@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"iron_pickaxe","template":"shaper_armor_trim_smithing_template","result":{"id":"iron_pickaxe","components":{"minecraft:trim":{"material":"diamond","pattern":"shaper"},"minecraft:item_model":"trimmable_tools:iron_pickaxe_shaper"}}}

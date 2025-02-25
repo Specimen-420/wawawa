@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"diamond_hoe","template":"dune_armor_trim_smithing_template","result":{"id":"diamond_hoe","components":{"minecraft:trim":{"material":"resin","pattern":"dune"},"minecraft:item_model":"trimmable_tools:diamond_hoe_dune"}}}

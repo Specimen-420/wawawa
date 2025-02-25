@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"diamond","base":"stone_sword","template":"wayfinder_armor_trim_smithing_template","result":{"id":"stone_sword","components":{"minecraft:trim":{"material":"diamond","pattern":"wayfinder"},"minecraft:item_model":"trimmable_tools:stone_sword_wayfinder"}}}

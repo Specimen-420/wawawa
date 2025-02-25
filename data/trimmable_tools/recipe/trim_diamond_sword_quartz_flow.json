@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"quartz","base":"diamond_sword","template":"flow_armor_trim_smithing_template","result":{"id":"diamond_sword","components":{"minecraft:trim":{"material":"quartz","pattern":"flow"},"minecraft:item_model":"trimmable_tools:diamond_sword_flow"}}}

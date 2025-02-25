@@ -1,0 +1,128 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_11"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "infinite_music_discs:item/music_disc_grasslandthemeostversionsupermariobroswonder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "infinite_music_discs:item/music_disc_badapple"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "infinite_music_discs:item/music_disc_birdsofafeatherbillieeilish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "infinite_music_discs:item/music_disc_chihirobillieeilish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "infinite_music_discs:item/music_disc_faiththeweeknd"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "infinite_music_discs:item/music_disc_gangbabynlechoppa"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "infinite_music_discs:item/music_disc_givenuponmetheweeknd"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "infinite_music_discs:item/music_disc_heartlesstheweeknd"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "infinite_music_discs:item/music_disc_lunchbillieeilish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "infinite_music_discs:item/music_disc_lamourdemaviebillieeilish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "infinite_music_discs:item/music_disc_lamourdemavieovernowextendededitbillieeilish"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "infinite_music_discs:item/music_disc_notlikeuskendricklamar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "infinite_music_discs:item/music_disc_ornahfeattheweekndwizkhalifadjmustardremixtydollaigntheweekndwizkhalifa"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "infinite_music_discs:item/music_disc_privatelandingfeatjustinbieberfuturedontoliverjustinbieberfuture"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "infinite_music_discs:item/music_disc_redsunintheskymaozedong"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "infinite_music_discs:item/music_disc_theabyssfeatlanadelreytheweekndlanadelrey"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "infinite_music_discs:item/music_disc_theweekndsdarksecretamericandadcast"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "infinite_music_discs:item/music_disc_timelessfeatplayboicartitheweekndplayboicarti"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "infinite_music_discs:item/music_disc_euphoriakendricklamar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "infinite_music_discs:item/music_disc_cryformetheweeknd"
+        }
+    ]
+}

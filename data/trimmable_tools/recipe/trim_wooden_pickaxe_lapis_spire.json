@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"wooden_pickaxe","template":"spire_armor_trim_smithing_template","result":{"id":"wooden_pickaxe","components":{"minecraft:trim":{"material":"lapis","pattern":"spire"},"minecraft:item_model":"trimmable_tools:wooden_pickaxe_spire"}}}

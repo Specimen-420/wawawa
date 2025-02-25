@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"golden_hoe","template":"raiser_armor_trim_smithing_template","result":{"id":"golden_hoe","components":{"minecraft:trim":{"material":"redstone","pattern":"raiser"},"minecraft:item_model":"trimmable_tools:golden_hoe_raiser"}}}

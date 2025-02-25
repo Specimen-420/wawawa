@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"golden_hoe","template":"vex_armor_trim_smithing_template","result":{"id":"golden_hoe","components":{"minecraft:trim":{"material":"emerald","pattern":"vex"},"minecraft:item_model":"trimmable_tools:golden_hoe_vex"}}}

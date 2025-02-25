@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"redstone","base":"iron_shovel","template":"ward_armor_trim_smithing_template","result":{"id":"iron_shovel","components":{"minecraft:trim":{"material":"redstone","pattern":"ward"},"minecraft:item_model":"trimmable_tools:iron_shovel_ward"}}}

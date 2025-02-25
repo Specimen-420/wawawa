@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"quartz","base":"golden_shovel","template":"shaper_armor_trim_smithing_template","result":{"id":"golden_shovel","components":{"minecraft:trim":{"material":"quartz","pattern":"shaper"},"minecraft:item_model":"trimmable_tools:golden_shovel_shaper"}}}

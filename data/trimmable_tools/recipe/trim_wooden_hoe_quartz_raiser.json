@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"quartz","base":"wooden_hoe","template":"raiser_armor_trim_smithing_template","result":{"id":"wooden_hoe","components":{"minecraft:trim":{"material":"quartz","pattern":"raiser"},"minecraft:item_model":"trimmable_tools:wooden_hoe_raiser"}}}

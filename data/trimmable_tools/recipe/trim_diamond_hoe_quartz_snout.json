@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"quartz","base":"diamond_hoe","template":"snout_armor_trim_smithing_template","result":{"id":"diamond_hoe","components":{"minecraft:trim":{"material":"quartz","pattern":"snout"},"minecraft:item_model":"trimmable_tools:diamond_hoe_snout"}}}

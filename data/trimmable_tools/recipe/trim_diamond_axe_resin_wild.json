@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"diamond_axe","template":"wild_armor_trim_smithing_template","result":{"id":"diamond_axe","components":{"minecraft:trim":{"material":"resin","pattern":"wild"},"minecraft:item_model":"trimmable_tools:diamond_axe_wild"}}}

@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"iron_ingot","base":"stone_pickaxe","template":"snout_armor_trim_smithing_template","result":{"id":"stone_pickaxe","components":{"minecraft:trim":{"material":"iron","pattern":"snout"},"minecraft:item_model":"trimmable_tools:stone_pickaxe_snout"}}}

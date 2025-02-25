@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"resin_brick","base":"wooden_pickaxe","template":"eye_armor_trim_smithing_template","result":{"id":"wooden_pickaxe","components":{"minecraft:trim":{"material":"resin","pattern":"eye"},"minecraft:item_model":"trimmable_tools:wooden_pickaxe_eye"}}}

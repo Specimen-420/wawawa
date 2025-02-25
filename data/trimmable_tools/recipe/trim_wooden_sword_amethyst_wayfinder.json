@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"amethyst_shard","base":"wooden_sword","template":"wayfinder_armor_trim_smithing_template","result":{"id":"wooden_sword","components":{"minecraft:trim":{"material":"amethyst","pattern":"wayfinder"},"minecraft:item_model":"trimmable_tools:wooden_sword_wayfinder"}}}

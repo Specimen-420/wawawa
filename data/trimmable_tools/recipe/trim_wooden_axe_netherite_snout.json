@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"netherite_ingot","base":"wooden_axe","template":"snout_armor_trim_smithing_template","result":{"id":"wooden_axe","components":{"minecraft:trim":{"material":"netherite","pattern":"snout"},"minecraft:item_model":"trimmable_tools:wooden_axe_snout"}}}

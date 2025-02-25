@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"copper_ingot","base":"iron_pickaxe","template":"ward_armor_trim_smithing_template","result":{"id":"iron_pickaxe","components":{"minecraft:trim":{"material":"copper","pattern":"ward"},"minecraft:item_model":"trimmable_tools:iron_pickaxe_ward"}}}

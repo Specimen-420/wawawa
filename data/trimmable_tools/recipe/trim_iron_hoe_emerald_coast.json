@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"emerald","base":"iron_hoe","template":"coast_armor_trim_smithing_template","result":{"id":"iron_hoe","components":{"minecraft:trim":{"material":"emerald","pattern":"coast"},"minecraft:item_model":"trimmable_tools:iron_hoe_coast"}}}

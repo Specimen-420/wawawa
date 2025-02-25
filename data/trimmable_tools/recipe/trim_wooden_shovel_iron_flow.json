@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"iron_ingot","base":"wooden_shovel","template":"flow_armor_trim_smithing_template","result":{"id":"wooden_shovel","components":{"minecraft:trim":{"material":"iron","pattern":"flow"},"minecraft:item_model":"trimmable_tools:wooden_shovel_flow"}}}

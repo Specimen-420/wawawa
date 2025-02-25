@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"lapis_lazuli","base":"golden_shovel","template":"tide_armor_trim_smithing_template","result":{"id":"golden_shovel","components":{"minecraft:trim":{"material":"lapis","pattern":"tide"},"minecraft:item_model":"trimmable_tools:golden_shovel_tide"}}}

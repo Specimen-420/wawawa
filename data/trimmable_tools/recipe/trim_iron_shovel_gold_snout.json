@@ -1,0 +1,1 @@
+{"type":"minecraft:smithing_transform","addition":"gold_ingot","base":"iron_shovel","template":"snout_armor_trim_smithing_template","result":{"id":"iron_shovel","components":{"minecraft:trim":{"material":"gold","pattern":"snout"},"minecraft:item_model":"trimmable_tools:iron_shovel_snout"}}}
